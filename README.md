@@ -42,7 +42,6 @@ individual es **USD 49**.
 Para comprar o solicitar acceso a la beta:
 
 - Sitio: [3govideo.com](https://www.3govideo.com/)
-- Correo: [3govideo@gmail.com](mailto:3govideo@gmail.com?subject=Licencia%20VR%20Stream)
 
 El código fuente y los instaladores comerciales no se distribuyen desde este
 repositorio público.
@@ -61,7 +60,8 @@ activar ADB por TCP/IP.
 
 Usa [GitHub Issues](https://github.com/3GOVideo/vr-stream/issues) para reportar errores sin incluir direcciones
 IP privadas, datos personales ni información sensible. Para asuntos de licencia
-o ventas, escribe a [3govideo@gmail.com](mailto:3govideo@gmail.com).
+o ventas, utiliza los canales de contacto disponibles en
+[3govideo.com](https://www.3govideo.com/).
 
 ## Tecnología y atribuciones
 
